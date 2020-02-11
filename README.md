@@ -1,1 +1,3 @@
 # SamplebilibiliAnimation
+
+![gif](/refreshanime.gif)
